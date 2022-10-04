@@ -1,3 +1,4 @@
+# de la part de KORRI: Vous devez publier sur votre compte tout les exercices abordés en cours!
 # Déclaration des variables:
 
 age = 18            #entier                  ==> int
