@@ -19,4 +19,4 @@ print("Vous vous appelez " + nom + " et vous avez " + str(age) + " ans.")
 print("Vous vous appelez" + " " + nom +  " " + "et vous avez" + " " + str(age) +  " " + "ans.")
 print("Vous vous appelez {} et vous avez {} ans.".format(nom, age ))
 print("Vous vous appelez %s et vous avez %s ans."%(nom, age ))
-# print(f"Vous vous appelez {nom} et vous avez {age} ans.") #A partir de python 3.6
+print(f"Vous vous appelez {nom} et vous avez {age} ans.") #A partir de python 3.6
